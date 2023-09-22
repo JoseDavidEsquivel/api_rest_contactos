@@ -10,11 +10,11 @@ Utiilzar un eemplo de siseño de una API REST de tipo CRUD y su posterior codifi
 Para este ejemplo se utilizara el gestpr de bases de datos [SQLite3](https://www.sqlite.org/index.html) con la siguiente tabla:
 
 ### 3.1 Tabla: contactos
-|No.|Campo|Tipo|Restriccionew|Descripcion|
+|No.|Campo|Tipo|Restricciones|Descripcion|
 |--|--|--|--|--|
 |1|id_contactos|int|PRIMARY KEY|llave primaria de la tabla|
-|2|nombre|not null|varchat(150)|nombre|
-|3|primer_apellido|varchar(50)|  |  |
-|4|segundo_apellido|varchar(50)|  |  |
-|5|email|varchar(50)|  |  |
-|6|telefoo|varchar(15)|  |  |
+|2|nombre|varchat(150)|not null|nombre|
+|3|primer_apellido|varchar(50)|not null  |  |
+|4|segundo_apellido|varchar(50)|not null  |  |
+|5|email|varchar(50)|not null |  |
+|6|telefoo|varchar(15)|not null  |  |
