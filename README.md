@@ -13,4 +13,8 @@ Para este ejemplo se utilizara el gestpr de bases de datos [SQLite3](https://www
 |No.|Campo|Tipo|Restriccionew|Descripcion|
 |--|--|--|--|--|
 |1|id_contactos|int|PRIMARY KEY|llave primaria de la tabla|
-|2| ||||
+|2|nombre|not null|varchat(150)|nombre|
+|3|primer_apellido|varchar(50)|  |  |
+|4|segundo_apellido|varchar(50)|  |  |
+|5|email|varchar(50)|  |  |
+|6|telefoo|varchar(15)|  |  |
