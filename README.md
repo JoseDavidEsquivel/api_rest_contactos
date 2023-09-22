@@ -13,3 +13,4 @@ Para este ejemplo se utilizara el gestpr de bases de datos [SQLite3](https://www
 |No.|Campo|Tipo|Restriccionew|Descripcion|
 |--|--|--|--|--|
 |1|id_contactos|int|PRIMARY KEY|llave primaria de la tabla|
+|2| ||||
