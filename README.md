@@ -21,7 +21,8 @@ Para este ejemplo se utilizara el gestpr de bases de datos [SQLite3](https://www
 
 ## 4.- Diseño de Metodos
 ### 4.1 Metodo GET
-|No.1|Propiedad|Detalle|
+|No.|Propiedad|Detalle|
+|--|--|--|
 |1|description||
 |2|summary||
 |3|method||
@@ -40,6 +41,7 @@ Para este ejemplo se utilizara el gestpr de bases de datos [SQLite3](https://www
 
 ### 4.2 Metodo GET a contactos
 |No.1|Propiedad|Detalle|
+|--|--|--|
 |1|description||
 |2|summary||
 |3|method||
@@ -58,6 +60,7 @@ Para este ejemplo se utilizara el gestpr de bases de datos [SQLite3](https://www
 
 ### 4.3 Metodo POST
 |No.1|Propiedad|Detalle|
+|--|--|--|
 |1|description||
 |2|summary||
 |3|method||
@@ -76,6 +79,7 @@ Para este ejemplo se utilizara el gestpr de bases de datos [SQLite3](https://www
 
 ### 4.4 Metodo DELETE
 |No.1|Propiedad|Detalle|
+|--|--|--|
 |1|description||
 |2|summary||
 |3|method||
@@ -94,6 +98,7 @@ Para este ejemplo se utilizara el gestpr de bases de datos [SQLite3](https://www
 
 ### 4.5 Metodo PUT
 |No.1|Propiedad|Detalle|
+|--|--|--|
 |1|description||
 |2|summary||
 |3|method||
