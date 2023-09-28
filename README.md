@@ -23,21 +23,21 @@ Para este ejemplo se utilizara el gestpr de bases de datos [SQLite3](https://www
 ### 4.1 Metodo GET
 |No.|Propiedad|Detalle|
 |--|--|--|
-|1|description||
-|2|summary||
-|3|method||
-|4|endpoint||
-|5|query param||
-|6|path param||
-|7|data||
-|8|version||
-|9|status code||
-|10|response type||
-|11|response||
-|12|curl||
-|13|status code(error)||
-|14|response type(error)||
-|15|response||
+|1|description|Endpoint raiz de la api|
+|2|summary|Endpoint raiz|
+|3|method|GET|
+|4|endpoint|http://localhost:8000/|
+|5|query param|NA|
+|6|path param|NA|
+|7|data|NA|
+|8|version|v1|
+|9|status code|200(ok)|
+|10|response type|application/json|
+|11|response|{"version":"v1,"message":"Endpoin raiz","datetime":"21/9/23 10:15"]|
+|12|curl|curl -X GET 'http://locathost:8000/' -H 'acceptapplication/json'|
+|13|status code(error)|NA|
+|14|response type(error)|NA|
+|15|response|NA|
 
 ### 4.2 Metodo GET a contactos
 |No.1|Propiedad|Detalle|
