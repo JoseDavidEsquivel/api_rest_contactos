@@ -18,3 +18,94 @@ Para este ejemplo se utilizara el gestpr de bases de datos [SQLite3](https://www
 |4|segundo_apellido|varchar(50)|not null  |  |
 |5|email|varchar(50)|not null |  |
 |6|telefoo|varchar(15)|not null  |  |
+
+## 4.- Diseño de Metodos
+### 4.1 Metodo GET
+|No.1|Propiedad|Detalle|
+|1|description||
+|2|summary||
+|3|method||
+|4|endpoint||
+|5|query param||
+|6|path param||
+|7|data||
+|8|version||
+|9|status code||
+|10|response type||
+|11|response||
+|12|curl||
+|13|status code(error)||
+|14|response type(error)||
+|15|response||
+
+### 4.2 Metodo GET a contactos
+|No.1|Propiedad|Detalle|
+|1|description||
+|2|summary||
+|3|method||
+|4|endpoint||
+|5|query param||
+|6|path param||
+|7|data||
+|8|version||
+|9|status code||
+|10|response type||
+|11|response||
+|12|curl||
+|13|status code(error)||
+|14|response type(error)||
+|15|response||
+
+### 4.3 Metodo POST
+|No.1|Propiedad|Detalle|
+|1|description||
+|2|summary||
+|3|method||
+|4|endpoint||
+|5|query param||
+|6|path param||
+|7|data||
+|8|version||
+|9|status code||
+|10|response type||
+|11|response||
+|12|curl||
+|13|status code(error)||
+|14|response type(error)||
+|15|response||
+
+### 4.4 Metodo DELETE
+|No.1|Propiedad|Detalle|
+|1|description||
+|2|summary||
+|3|method||
+|4|endpoint||
+|5|query param||
+|6|path param||
+|7|data||
+|8|version||
+|9|status code||
+|10|response type||
+|11|response||
+|12|curl||
+|13|status code(error)||
+|14|response type(error)||
+|15|response||
+
+### 4.5 Metodo PUT
+|No.1|Propiedad|Detalle|
+|1|description||
+|2|summary||
+|3|method||
+|4|endpoint||
+|5|query param||
+|6|path param||
+|7|data||
+|8|version||
+|9|status code||
+|10|response type||
+|11|response||
+|12|curl||
+|13|status code(error)||
+|14|response type(error)||
+|15|response||
